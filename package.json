@@ -36,7 +36,7 @@
     "release-it": "^7.4.3"
   },
   "dependencies": {
-    "aws-sdk": "2.233.1",
+    "aws-sdk": "2.814.0",
     "js-yaml": "^3.13.1",
     "local-dynamo": "0.5.0"
   }
